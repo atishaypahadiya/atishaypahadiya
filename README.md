@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atishay Pahadiya</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">CEO, STEALTH.</h3>
 <IMG ALIGN="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pahadiyaatishay" target="blank"><img src="https://img.shields.io/twitter/follow/pahadiyaatishay?logo=twitter&style=for-the-badge" alt="pahadiyaatishay" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Front end or AI projects**
+- 👯 I’m looking to collaborate on **STARTUPS**
 
 - 📫 How to reach me **atishaypahadiya3@gmail.com**
 
