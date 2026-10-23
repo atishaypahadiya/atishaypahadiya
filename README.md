@@ -1,7 +1,7 @@
 # Atishay Pahadiya
 **CEO, STEALTH.**
 
-Currently building the foundations for a cognitive AI operating system at Consciouss Inc. 
+Currently building the foundations for a cognitive AI operating system at Conscious. 
 
 ### Core Stack
 `Python` `C++` `PyTorch` `TypeScript`
