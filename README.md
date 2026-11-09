@@ -1,5 +1,5 @@
 - **[Grosher](https://github.com/atishaypahadiya/Grosher)**: the shortest walk through a grocery store, re-solved at every shelf.
-- **[neptune-fork](https://github.com/atishaypahadiya/neptune-fork)**: Le Verrier's 1846 prediction of Neptune, rebuilt from first principles. Fitted to his own 279 observations, it lands 0.06° from the real planet, inside a 3.5° interval.
+- **[neptune-fork](https://github.com/atishaypahadiya/neptune-fork)**: Le Verrier's 1846 prediction of Neptune, rebuilt from first principles. Fitted to his own 279 observations, it lands 0.06° from the real planet, inside a 4.2° interval.
 - **[HundredLives](https://atishaypahadiya.github.io/HundredLives/)**: one LLM persona lives the same simulated year 80 times.
 - **[SecondRead](https://atishaypahadiya.github.io/SecondRead/)**: skips YouTube sponsor reads from captions alone, on a local model.
 - **[HackRecon](https://github.com/atishaypahadiya/HackRecon)**: Donna, a hackathon agent that reads the event as it happens and texts you what matters to your project.
