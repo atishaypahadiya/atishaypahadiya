@@ -10,4 +10,4 @@ Data Science at San José State.
 - **[Mayshay](https://github.com/atishaypahadiya/Mayshay)**: a browser engine from scratch in Python.
 - **[Tome](https://github.com/atishaypahadiya/Tome)**: any codebase as an interactive map.
 
-[atishaypahadiya.com](https://atishaypahadiya.com) · [Email](mailto:atishaypahadiya3@gmail.com)
+[Email](mailto:atishaypahadiya3@gmail.com)
